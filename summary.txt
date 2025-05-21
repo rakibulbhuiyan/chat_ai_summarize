@@ -1,0 +1,6 @@
+Summary:
+            - Total exchanges: 4
+            - User messages: 2
+            - AI messages: 2
+            - Conversation focus: hello and related topics
+            - Top keywords (TF-IDF): hello, machine, learning, can, explain, hi, how, assist, today, certainly, field, ai, allows, systems, learn, data
